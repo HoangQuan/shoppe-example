@@ -11,6 +11,7 @@ gem 'redcarpet'
 gem 'faker'
 gem 'shoppe'
 gem 'thin'
+gem 'pry'
 
 group :development do
   gem 'capistrano'
